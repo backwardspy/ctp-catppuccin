@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Port Request
-    url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
-    about: Have an idea for a port or currently theming one? Raise a discussion here!
-  - name: Community Discord
-    url: https://discord.com/servers/catppuccin-907385605422448742
-    about: Ask questions and chat to other community members!
